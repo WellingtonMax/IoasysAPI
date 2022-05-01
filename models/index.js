@@ -32,12 +32,11 @@ db.sequelize = sequelize;
 db.Sequelize = Sequelize;
 db.sequelize = sequelize;
 
-db.usuarios = require("./usuarioModels.js")(sequelize, DataTypes);
-db.empresas = require("./empresasModels.js")(sequelize, DataTypes);
+db.usuarios = require("../models/usuarioModels")(sequelize, DataTypes);
+db.empresas = require("../models/empresasModels")(sequelize, DataTypes);
 
-db.sequelize.sync({force: false})
-.then(()=>{
-    console.log('yes re-sync done!')
-})
+db.sequelize.sync({ force: false }).then(() => {
+  console.log("yes re-sync done!");
+});
 
-module.exports = db
+module.exports = db;
