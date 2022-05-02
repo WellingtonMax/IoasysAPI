@@ -70,6 +70,5 @@ Requisições para a API devem seguir os padrões:
 ## 🤝 Contribuições
 
 ---
-<p>Esse projeto só foi possível graças a contribuição de todos os envolvidos, a orientação dos professores da Gama Academy, a equipe de suporte da Gama e principalmente ao esforço colaborativo de toda a equipe ao longo de todo o projeto.<p\>
 
 <h1> Gostou? Deixe uma estrelinha para ajudar o projeto ⭐ <h1\>
