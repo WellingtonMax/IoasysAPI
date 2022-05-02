@@ -30,9 +30,6 @@
 
 ## 📝 Descrição
 
-<p align="center">Desafio final do curso de Desenvolvimento Full Stack da Gama Academy. A proposta desse projeto foi criar um portfólio navegável e interativo de um empreendimento, e assim surgiu a Mee!</p>
-
-
 <p align="center"> A Ioasys API consiste em um sistema de cadastro de usuários e empresas visando gerir os dados (CRUD) em um banco de dados relacional.</p>
 
 ## 🖥️ Como Executar
