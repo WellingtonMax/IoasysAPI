@@ -6,8 +6,6 @@
 - [Como Executar](#🖥️-como-executar)
 - [Tecnologias](#🛠-tecnologias)
 - [Métodos](#métodos)
-- [Autenticação](#autenticação---jwt)
-- [Endpoints](#endpoints)
 
 ---
 
@@ -18,7 +16,6 @@
 - [x] Atualiza usuários e empresas
 - [x] Deleta usuários e empresas
 - [x] Implementação do banco de dados com Sequelize
-- [x] Paginação
 
 
 ## 🎯Objetivos 
