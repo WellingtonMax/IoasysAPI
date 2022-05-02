@@ -67,8 +67,4 @@ Requisições para a API devem seguir os padrões:
   </tr>
 </table>
 
-## 🤝 Contribuições
-
----
-
 <h1> Gostou? Deixe uma estrelinha para ajudar o projeto ⭐ <h1\>
