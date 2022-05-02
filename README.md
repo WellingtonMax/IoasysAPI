@@ -1,4 +1,4 @@
-# 🍃Ioasys API 🍃
+# Ioasys API 
 
 # 📋Guia da API
 
